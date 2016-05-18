@@ -1,0 +1,2 @@
+include ':app', ':GraphView'
+project(':GraphView').projectDir = new File('GraphView-master-2')
